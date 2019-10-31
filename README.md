@@ -35,6 +35,6 @@ This app is particularly applicable  for any other CFB boiler if required data i
 
 *A_GURANI* <br/>
 
-<a href="url"><img src="https://github.com/agurani/CFB-X/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206%20-%202018-11-12%20at%2001.34.28.PNG" align="left" height="667" width="375" ></a>
-<a href="url"><img src="https://github.com/agurani/CFB-X/blob/master/IMG_3883.PNG" align="left" height="667" width="375" ></a> <br/>
+<a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3882.PNG" align="left" height="667" width="375" ></a>
+<a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3883.PNG" align="left" height="667" width="375" ></a> <br/>
 
