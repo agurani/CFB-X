@@ -31,4 +31,5 @@ This app is particularly applicable  for any other CFB boiler if required data i
 
 <a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/LScreen.png" align="left" height="334" width="187" ></a>
 <a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3882.PNG" align="left" height="334" width="187" ></a> <br/>
+<a href="https://github.com/agurani/MAC-Terminal-Commands/blob/master/CFBx_GIF.gif" align="left" height="334" width="187" ></a>
 
