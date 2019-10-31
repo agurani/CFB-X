@@ -1,11 +1,5 @@
-# CFBx
-Last version of CFBx
 
-
-
-
-
-# CFB-X 
+# Last Version of CFB-X 
 
 ### CIRCULATING FLUIDIZED BED BOILER PARAMETERS
 
