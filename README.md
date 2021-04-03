@@ -27,12 +27,14 @@ This app is particularly applicable  for any other CFB boiler if required data i
 *Secondary Air Pressure* <br/>
 *Steam Flow* <br/>
 
-*Abdulkadir GÜRANI* <br/>
+
 
 **Requirements:**
 
 Xcode 10.2.1 <br/>
 iOS 10.2 <br/>
+Created by agurani on 27.10.2018.<br/>
+Copyright © 2018 ABDULKADIRGURANI. All rights reserved.
 
 <a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/LScreen.png" align="left" height="334" width="187" ></a> 
 <a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3882.PNG" align="left" height="334" width="187" ></a> <br/>
