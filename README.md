@@ -4,7 +4,7 @@
 ### CIRCULATING FLUIDIZED BED BOILER PARAMETERS
 
 **This application is for CFB boiler operators. Operators could follow the required parameters 
-for operating the boiler in proper according boiler manufacturer manual**
+to operate the boiler properly according to boiler manufacturer operating and maintenance manual**
 
 
 The subject of this *application* are detailed parameters for operation of  a model of hard coal-fired  circulating fluidized bed boiler  .
