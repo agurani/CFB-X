@@ -40,9 +40,9 @@ Copyright © 2018 ABDULKADIRGURANI. All rights reserved.
 <a href="url"><img src="https://github.com/agurani/CFBx/blob/master/CFB/CFB/IMG_3882.PNG" align="left" height="334" width="187" ></a> <br/> 
 
 <br/>
-<br/> <br/> <br/>
-
-
+<br/> 
+<br/> 
+<br/>
 
 ![Agurani's GitHub stats](https://github-readme-stats.vercel.app/api?username=agurani&show_icons=true&theme=merko)<br/>
 
