@@ -41,7 +41,7 @@ Copyright © 2018 ABDULKADIRGURANI. All rights reserved.
 
 <br/>
 <br/> <br/> <br/>
-###Stats
+
 ![Agurani's GitHub stats](https://github-readme-stats.vercel.app/api?username=agurani&show_icons=true&theme=merko)<br/>
 
 
