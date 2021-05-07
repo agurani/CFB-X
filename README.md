@@ -44,10 +44,4 @@ Copyright © 2018 ABDULKADIRGURANI. All rights reserved.
 <br/> 
 <br/>
 
-![Agurani's GitHub stats](https://github-readme-stats.vercel.app/api?username=agurani&show_icons=true&theme=merko)<br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agurani&layout=compact&show_icons=true&theme=merko)](https://github.com/agurani/github-readme-stats)
-
-
 
